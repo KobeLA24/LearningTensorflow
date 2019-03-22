@@ -4,4 +4,5 @@ def add(a, b):
   return float(a)+float(b)
 
 if __name__ == "__main__":
+  print('秦超学习git!')
   print(add('10',2))
